@@ -1,0 +1,36 @@
+Github resources
+
+**********Start*************
+---New project commands
+
+~git init 
+~git add .
+~git commit -m "message"
+~git branch -M main
+~git remote add origin /link
+~git push -u origin main
+
+**********End****************
+
+
+**********Start***************
+---For regular code push
+
+~git add .
+~git commit -m "message"
+~git push
+
+**********End*****************
+
+
+**********Start***************
+
+
+
+
+
+**********End*****************
+
+
+
+
