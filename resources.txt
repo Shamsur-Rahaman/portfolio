@@ -24,7 +24,17 @@ Github resources
 
 
 **********Start***************
+--Git branch (create, move, merge)
 
+~git branch //all branches and where you are
+~git branch -a //list all branch
+~git branch image_galary //create new branch 'image_galary'
+~git checkout image_galary //move to image_galary branch
+~git checkout main //move to main branch
+~git merge image_galary //merge image_galary branch with main branch
+~git push //to push all branch code
+
+*********End*******************
 
 
 
