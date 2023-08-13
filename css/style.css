@@ -6,3 +6,18 @@ body{
 .name-color{
     color : tomato;
 }
+.header-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.hire-btn{
+    color : white;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, gold);
+    padding : 8px 15px 8px 15px;
+    border-radius: 20px;
+}
